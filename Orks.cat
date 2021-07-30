@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="a34e-d16c-80ff-06bf" name="Orks" revision="37" battleScribeVersion="2.03" authorName="@Mad-Spy" authorContact="https://discord.gg/Y5x9UnErYN" authorUrl="https://bsdata.net/" library="false" gameSystemId="a467-5f42-d24c-6e5b" gameSystemRevision="43" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="a34e-d16c-80ff-06bf" name="Orks" revision="38" battleScribeVersion="2.03" authorName="Tee" authorContact="" authorUrl="" library="false" gameSystemId="a467-5f42-d24c-6e5b" gameSystemRevision="43" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <categoryEntries>
     <categoryEntry id="2a73-3eb4-3c77-db12" name="Ork Boy" hidden="false"/>
     <categoryEntry id="d9e4-66e2-9d74-a149" name="Burna Boy" hidden="false"/>
@@ -1368,7 +1368,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -1621,7 +1621,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -1727,7 +1727,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -1823,7 +1823,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -1910,7 +1910,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">2</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">7</characteristic>
@@ -1980,7 +1980,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -2047,7 +2047,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">2</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">7</characteristic>
@@ -2112,7 +2112,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -2172,7 +2172,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">4</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">1</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">2</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -2526,7 +2526,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">4</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">7</characteristic>
@@ -2697,7 +2697,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">4</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">4</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -2785,7 +2785,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">2</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -2869,7 +2869,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">2</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">7</characteristic>
@@ -2982,7 +2982,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">
 3</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
@@ -3036,7 +3036,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">3</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">7</characteristic>
@@ -3080,7 +3080,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">4+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">2</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -3138,7 +3138,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">3+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">4+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">5</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">2</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">3</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">6</characteristic>
@@ -3314,7 +3314,7 @@
             <characteristic name="WS" typeId="99d4-2590-8bac-3ad3">2+</characteristic>
             <characteristic name="BS" typeId="27ff-d5c5-5422-1614">5+</characteristic>
             <characteristic name="S" typeId="d474-89b0-047c-4f3a">6</characteristic>
-            <characteristic name="T" typeId="803c-5453-20c4-4b94">4</characteristic>
+            <characteristic name="T" typeId="803c-5453-20c4-4b94">5</characteristic>
             <characteristic name="W" typeId="0c48-aed0-609b-9818">6</characteristic>
             <characteristic name="A" typeId="d63d-20cc-db25-5dd5">6</characteristic>
             <characteristic name="Ld" typeId="411b-5228-afed-8334">7</characteristic>
@@ -3654,7 +3654,7 @@
         <characteristic name="Range" typeId="5410-0b42-87cc-bbc6">Melee</characteristic>
         <characteristic name="Type" typeId="38ea-c4e0-d3bb-d1e9">Melee</characteristic>
         <characteristic name="S" typeId="fcc6-35ea-38b6-f4ca">User</characteristic>
-        <characteristic name="AP" typeId="fc0e-2874-184d-9f64">0</characteristic>
+        <characteristic name="AP" typeId="fc0e-2874-184d-9f64">-1</characteristic>
         <characteristic name="D" typeId="cc1f-e463-c014-2251">1</characteristic>
         <characteristic name="Abilities" typeId="72cf-5b8f-5b71-79b2">Each time the bearer fights, it can make 1 additional attack with this weapon.</characteristic>
       </characteristics>
